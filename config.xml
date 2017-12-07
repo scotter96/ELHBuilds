@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.SC96Games.ELH" version="0.8.3">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.SC96Games.ELH" version="0.8.4">
 
-	<name>ELH v0.8.3</name>
+	<name>ELH v0.8.4</name>
 	<description>Game about Lembah Hijau exploration for education purposes for Android</description>
 	<author>Herwin</author>
 
@@ -12,7 +12,6 @@
 	<preference name="android-targetSdkVersion" value="23" />
 
 	<feature name="http://api.phonegap.com/1.0/network"/>
-	<plugin name="cordova-plugin-media" source="npm" />
 
 	<preference name="orientation" value="landscape" />
 	<preference name="fullscreen" value="true" />
