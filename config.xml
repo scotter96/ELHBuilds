@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.SC96Games.ELH" version="1.0.6">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.SC96Games.ELH" version="1.0.7">
 
-	<name>ELH v1.0.6</name>
+	<name>ELH v1.0.7</name>
 	<description>Game about Lembah Hijau exploration for education purposes for Android</description>
 	<author>Herwin</author>
 
